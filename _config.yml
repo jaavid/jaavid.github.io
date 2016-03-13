@@ -7,13 +7,13 @@ copyright: Javid Momeni
 keywords: Javid, Abaan, کرمان
 
 description: > # this means to ignore newlines until "url:". One indent required.
-  Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
+  وبلاگ شخصی جاوید مومنی
 
 # the base hostname & protocol for your site
-url: "http://opentheme.co"
+url: "http://jaavid.com"
 
-twitter_username: manavsehgal
-github_username:  manavsehgal
+twitter_username: jaavid
+github_username:  jaavid
 
 default_image: /img/opentheme-workflow.png
 
