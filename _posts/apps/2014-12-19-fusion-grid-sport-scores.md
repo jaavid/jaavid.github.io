@@ -1,7 +1,7 @@
 ---
 # App Options
 layout: fusion
-title: Fusion Grid - Sport Scores
+title: پیام ما
 description: Data Grid displaying data from Google Fusion Tables
 category: app
 image: /img/app/fusion-grid.png
@@ -20,7 +20,7 @@ Three simple steps to create this app.
 
 {% include fusion-filter-grid.html %}
 
-You can author this single page app using Markdown. Pull data source from Google Fusion Tables. 
+You can author this single page app using Markdown. Pull data source from Google Fusion Tables.
 Visuaize and interact with the data source using Google Visualization API.
 
 Features include:

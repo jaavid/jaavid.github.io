@@ -39,8 +39,8 @@ related_items: 5  # Applies to related posts and apps lists
 
 # Layout
 
-pagebar: true # Show (true) page sidebar menu or hide (false) 
-postbar: true # Show (true) post sidebar or hide (false) 
+pagebar: true # Show (true) page sidebar menu or hide (false)
+postbar: true # Show (true) post sidebar or hide (false)
 
 # Features
 
